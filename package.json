@@ -1,0 +1,18 @@
+{
+  "name": "sample-wallabify-proxyquire",
+  "version": "0.0.1",
+  "description": "Postprocessor wrapper for wallabify compatibility with proxyquire",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "jasmine-core": "^2.5.2",
+    "phantomjs-prebuilt": "^2.1.14",
+    "proxyquire": "^1.7.11",
+    "proxyquire-universal": "^1.0.8",
+    "proxyquireify": "^3.2.1",
+    "wallabify-proxyquire-postprocessor": "0.0.6"
+  },
+  "license": "MIT"
+}
